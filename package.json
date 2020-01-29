@@ -1,0 +1,30 @@
+{
+  "name": "burgerhandlebars1",
+  "version": "1.0.0",
+  "description": "Burger app. using input the order to output complete.",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karithomas/burger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karithomas/burger/issues"
+  },
+  "homepage": "https://github.com/karithomas/burger#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "method-override": "^3.0.0",
+    "mysql": "^2.18.1",
+    "node": "^13.6.0",
+    "nodemon": "^2.0.2",
+    "noder": "0.0.12"
+  }
+}
